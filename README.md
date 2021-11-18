@@ -1,4 +1,4 @@
-# flutter_profile
+# Profile Picture Flutter App
 
 Flutter program to create a new profile picture
 
